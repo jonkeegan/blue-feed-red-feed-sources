@@ -8,4 +8,4 @@ We only included sources with `l2` and `r2` scores of .5 and above. We also only
 
 The like counts for this csv were recorded on May 18, 2016. 
 
-Questions or comments? jonathan.keegan@wsj.com
+Questions or comments? Reach me on Twitter: @jonkeegan
